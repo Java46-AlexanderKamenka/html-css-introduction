@@ -1,0 +1,18 @@
+.link-list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.img-src
+{
+    width: 50px;
+}
+
+.text-link
+{
+    align-items: center;
+    justify-content: left;
+    font-size: 25px; 
+    width: 200px; 
+    display: flex;
+}
